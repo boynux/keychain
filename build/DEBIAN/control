@@ -1,0 +1,8 @@
+Package: keychain
+Version: 0.1
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: Mohamad Arab <boynux@gmail.com>
+Description: KeyChain
+ Very basic thread safe REST key value store
